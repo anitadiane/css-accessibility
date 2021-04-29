@@ -1,0 +1,31 @@
+.box1{
+    display: inline-block;
+    align-items: center;
+    background: lightblue;
+}
+.box1 img {
+    text-decoration: none;
+    list-style-type: none;
+}
+.box2{
+    text-align: center;
+    background: lightcyan;
+}
+.box2 ul {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 40px;
+}
+.box3{
+    text-align: center;
+    background: aliceblue;
+}
+.box3 li {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 40px;
+}
+
+header {
+    text-align: center;
+}
